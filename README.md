@@ -3,6 +3,12 @@
 Welcome! This repository contains everything you need to complete the firmware
 challenge. Read this file carefully before you start.
 
+> **Before anything else, read the challenge document:**
+> [`doc/Firmware Tech Challenge.pdf`](doc/Firmware%20Tech%20Challenge.pdf)
+>
+> It contains the full problem statement, grading rubric, and all context
+> needed to approach the exercises correctly.
+
 ## Repository structure
 
 ```
